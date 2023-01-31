@@ -12,4 +12,9 @@
   - Host Name
   - ISP
 
+### Errors?
+
+- Make an [issue](https://github.com/Yuvi5001/moonify-logger/issues)
+- Join the [Discord](https://discord.gg/fnNd26Depz)
+
 ### Educational purposes only
