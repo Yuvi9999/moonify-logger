@@ -1,3 +1,5 @@
-# Moonify logger 
-### grabify-like alternative, sends the same info grabify sends you, but instead it sends it to your discord web-hook.
-### Use for educational purposes only!
+# Moonify logger
+
+### Grabify-like alternative, sends the same info Grabify sends you, but instead it sends it to your discord web-hook.
+
+### Educational purposes only
