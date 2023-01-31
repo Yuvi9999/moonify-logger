@@ -4,6 +4,7 @@
 
 - IP Info
   - Operating System
+  - IP Address
   - Country
   - Date/Time
   - Browser
