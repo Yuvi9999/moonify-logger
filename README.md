@@ -20,9 +20,8 @@
 5. press create
 6. click import from github
 7. put the repo url, which is going to be `https://github.com/Yuvi5001/moonify-logger`
-8. select the correct programming language (html)
+8. select the correct programming language (HTML, CSS JavaScript)
 9. and click the import from github button.
-10. HTML, CSS JavaScript
 
 #### screenshots
 
